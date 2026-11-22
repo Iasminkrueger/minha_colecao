@@ -104,9 +104,4 @@ Escolha o dispositivo **Android** quando o Flutter mostrar a lista de dispositiv
 
 > **Observação:** o sqflite não funciona direto no Chrome nem no Windows, sem configuração extra. Por isso, o app deve ser executado em um emulador ou celular Android.
 
-## Teste de persistência
 
-1. Cadastrar pelo menos três livros.
-2. Fechar completamente o aplicativo (removendo-o da lista de aplicativos recentes).
-3. Abrir o aplicativo novamente.
-4. Conferir que os livros continuam na lista.
